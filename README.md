@@ -7,10 +7,7 @@
 이 문서는 로보메이션의 Beagle을 Python으로 프로그래밍하려는 사용자를 위한 라이브러리 API Guide입니다. 
 
 아래 목차에서 **도움말**을 보고싶은 **목차**를 선택하세요.<br>
-오른쪽 사이드 바에서 각 API들의 **제목** 을 클릭하면 해당 메뉴얼로 넘어가고, `▶`를 눌러 토글을 열면 각 **함수**에 대한 메뉴얼로 이동합니다.
-<br><br>
->Service: [로보메이션](https://www.robomation.net)<br>
-API version: 2024-03-01
+
 
 <br>
 
@@ -23,3 +20,9 @@ API version: 2024-03-01
 ### [서보 모터](#서보-모터) <br>
 ### [LiDar](#lidar) <br>
 ### [전역 함수](#전역-함수) <br>
+
+
+
+<br><br>
+>공식 홈페이지: [로보메이션](https://www.robomation.net)<br>
+API version: 2024-03-01
