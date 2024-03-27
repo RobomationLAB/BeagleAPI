@@ -14,7 +14,7 @@
 
 # [Intro](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/시작하기에-앞서)
 
-
+<br>
 
 # [생성 및 해제](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제)
 
@@ -37,7 +37,7 @@
 
 <details>
     <summary>
-        <a href = "https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#해제">
+        <a href = "https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagle-해제">
         비글 해제
     </summary>
 
@@ -49,7 +49,7 @@
 
 
 
-
+<br>
 
 
 
@@ -380,6 +380,8 @@
 - [when_do(when, do, args)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#when_dowhen-do-args)
 
 </details>
+
+
 
 
 
