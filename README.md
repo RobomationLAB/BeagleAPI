@@ -12,7 +12,6 @@
 
 <br><br><br><br>
 
-
 # [Intro](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/시작하기에-앞서)
 
 
@@ -133,8 +132,6 @@
 - [pivot_right_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_right_pulsepulsevelocity)
 
 </details>
-
-https://github.com/RobomationLAB/BeagleAPI_KR/wiki/
 
 
 <details>
