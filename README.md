@@ -4,6 +4,7 @@
 
 
 **Beagle**사용자들을 위한 [Python API Wiki](https://github.com/RobomationLAB/BeagleAPI_KR/wiki)입니다.<br>
+![alt text](https://robomation.net/wp/wp-content/uploads/2024/03/beagle_2-1500x500.jpg)
 <Br>
 이 문서는 로보메이션의 Beagle을 Python으로 프로그래밍하려는 사용자를 위한 라이브러리 API Guide입니다. 
 
