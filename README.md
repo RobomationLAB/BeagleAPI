@@ -21,7 +21,9 @@
 
 <br><br><br><br>
 
-# [Intro](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/시작하기에-앞서)
+
+- ### [시작하기에 앞서](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/시작하기에-앞서)
+- ### [초보자를 위한 파이썬 설치 가이드](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/초보자를-위한-파이썬-설치-가이드)
 
 <br>
 
@@ -30,7 +32,7 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#생성">
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagle-생성">
             비글 생성
         </a>
     </summary>
@@ -103,7 +105,7 @@
 <details>
     <summary>
         <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#스핀">
-            왼쪽으로 스핀
+            스핀 (왼쪽, 오른쪽)
         </a>
     </summary>
 
@@ -145,7 +147,7 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/#바퀴-제어">
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#바퀴-제어">
             바퀴 제어
         </a>
     </summary>
@@ -173,7 +175,7 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#소리-제어">
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#소리-제어-1">
             소리 제어
         </a>
     </summary>
@@ -188,7 +190,7 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#사운드-아이디-제어">
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#sound_id-제어-1">
             사운드 아이디 제어
         </a>
     </summary>
