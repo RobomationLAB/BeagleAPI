@@ -2,8 +2,7 @@
 
 <br>
 
-![alt text](https://robomation.net/wp/wp-content/uploads/2024/03/beagle_2-1500x500.jpg)
-
+![68747470733a2f2f726f626f6d6174696f6e2e6e65742f77702f77702d636f6e74656e742f75706c6f6164732f323032342f30332f626561676c655f322d31353030783530302e6a7067](https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/c43bef77-3f7d-4ea6-b028-5d082e06cfc6)
 
 <br>
 
