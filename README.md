@@ -400,5 +400,6 @@
 
 
 <br><br>
->공식 홈페이지: [로보메이션](https://www.robomation.net)<br>
-API version: 2024-03-01
+><a href="https://www.robomation.net" target="_blank">www.robomation.net</a><br>
+`roboid version-1.6.4`
+
