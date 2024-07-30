@@ -24,6 +24,8 @@
 - ### [시작하기에 앞서](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/시작하기에-앞서)
 - ### [초보자를 위한 파이썬 설치 가이드](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/초보자를-위한-파이썬-설치-가이드)
 
+- ### [ 하드웨어 설명 ](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%84%A4%EB%AA%85)
+
 <br>
 
 # [생성 및 해제](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제)
@@ -174,23 +176,40 @@
 
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#소리-제어-1">
-            소리 제어
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#주파수-제어">
+            주파수 제어
         </a>
     </summary>
 
 - [buzzer(hz)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#buzzerhz)
 - [tempo(bpm)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#tempobpm)
+
+</details>
+
+
+
+
+
+<details>
+    <summary>
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#note-제어">
+            NOTE 제어
+        </a>
+    </summary>
+
 - [note(pitch)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#notepitch)
 - [note(pitch, beats)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#notepitch-beats)
 
 </details>
 
 
+
+
+
 <details>
     <summary>
-        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#sound_id-제어-1">
-            사운드 아이디 제어
+        <a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/소리#멜로디-제어">
+            멜로디 제어
         </a>
     </summary>
 
@@ -203,13 +222,12 @@
 </details>
 
 
-
 <br>
 
 # [센서](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서)
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#블루투스-온도-센서-1">블루투스, 온도 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#블루투스-온도-센서">블루투스, 온도 센서</a></summary>
 
 - [signal_strength()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#signal_strength)
 - [temperature()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#temperature)
@@ -217,7 +235,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#바퀴-회전량-감지-센서-1">바퀴 회전량 감지 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#바퀴-회전량-감지-센서">바퀴 회전량 감지 센서</a></summary>
 
 - [left_encoder()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#left_encoder)
 - [right_encoder()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#right_encoder)
@@ -226,7 +244,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#가속도-감지-센서-1">가속도 감지 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#가속도-감지-센서">가속도 감지 센서</a></summary>
 
 - [accelerometer_x()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#accelerometer_x)
 - [accelerometer_y()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#accelerometer_y)
@@ -243,7 +261,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#회전-감지-센서-1">회전 감지 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#회전-감지-센서">회전 감지 센서</a></summary>
 
 - [gyroscope_x()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#gyroscope_x)
 - [gyroscope_y()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#gyroscope_y)
@@ -260,7 +278,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#기울기-배터리-시간-센서-1">기울기, 배터리, 시간 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#기울기-배터리-시간-센서">기울기, 배터리, 시간 센서</a></summary>
 
 - [tilt()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#tilt)
 - [battery_state()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#battery_state)
@@ -278,7 +296,7 @@
 
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#각도-설정-1">각도 설정</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#각도-설정">각도 설정</a></summary>
 
 - [servo_output_a(degree)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_output_adegree)
 - [servo_output_b(degree)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_output_bdegree)
@@ -290,7 +308,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#속도-설정-1">속도 설정</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#속도-설정">속도 설정</a></summary>
 
 - [servo_speed_a(speed)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_speed_aspeed)
 - [servo_speed_b(speed)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_speed_bspeed)
@@ -299,7 +317,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#서보모터-종료-1">서보 모터 종료</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#서보모터-종료">서보 모터 종료</a></summary>
 
 - [release_servo_a()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#release_servo_a)
 - [release_servo_b()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#release_servo_b)
@@ -308,7 +326,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#각도-반환-1">각도 반환</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#각도-반환">각도 반환</a></summary>
 
 - [servo_input_a()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_input_a)
 - [servo_input_b()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/서보-모터#servo_input_b)
@@ -323,7 +341,7 @@
 # [LiDar](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar)
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-시작-1">라이다 시작</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-시작">라이다 시작</a></summary>
 
 - [start_lidar()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#start_lidar)
 - [stop_lidar()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#stop_lidar)
@@ -333,7 +351,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-측정-1">라이다 측정</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-측정">라이다 측정</a></summary>
 
 - [lidar()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#lidar)
 - [left_lidar()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#left_lidar)
@@ -348,7 +366,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-시각화-1">라이다 시각화</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#라이다-시각화">라이다 시각화</a></summary>
 
 - [resolution()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#resolution)
 - [lidar_chart()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#lidar_chart)
@@ -363,7 +381,7 @@
 # [전역 함수](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수)
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#해제-다중-작동-포트-출력-콜백-함수-1">해제, 다중 작동, 시리얼 포트 출력, 콜백함수</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#해제-다중-작동-포트-출력-콜백-함수">해제, 다중 작동, 시리얼 포트 출력, 콜백함수</a></summary>
 
 - [dispose()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#dispose)
 - [parallel(function1, function2, ...)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#parallelfunction1-function2-)
@@ -374,7 +392,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#대기-함수-1">대기 함수</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#대기-함수">대기 함수</a></summary>
 
 - [wait(milliseconds)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#waitmilliseconds)
 - [wait_until(evaluate)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#wait_untilevaluate)
@@ -384,7 +402,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#조건-함수-1">조건 함수</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#조건-함수">조건 함수</a></summary>
 
 - [when_do(when, do)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#when_dowhen-do)
 - [when_do(when, do, args)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/전역-함수#when_dowhen-do-args)
