@@ -41,7 +41,7 @@
 - [Beagle](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagle)
 - [Beagle(index)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagleindex)
 - [Beagle(port_name)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagleport_name)
-- [Beagle(index, port_name)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagleindexport_name)
+- [Beagle(index, port_name)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/생성-및-해제#beagleindex-port_name)
 
 </details>
 
@@ -80,8 +80,8 @@
 - [move_forward()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forward)
 - [move_forward(sec)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forwardsec)
 - [move_forward(sec,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forwardsec-velocity)
-- [move_forward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forwardpulse)
-- [move_forward_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forwardpulsevelocity)
+- [move_forward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forward_pulsepulse)
+- [move_forward_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_forward_pulsepulsevelocity)
 
 </details>
 
@@ -96,8 +96,8 @@
 - [move_backward()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward)
 - [move_backward(sec)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardsec)
 - [move_backward(sec,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardsec-velocity)
-- [move_backward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardpulse)
-- [move_backward_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardpulsevelocity)
+- [move_backward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward_pulse)
+- [move_backward_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward_pulsepulsevelocity)
 
 </details>
 
@@ -137,7 +137,6 @@
 - [pivot_left(sec,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_leftsec-velocity)
 - [pivot_left_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_left_pulsepulse)
 - [pivot_left_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_left_pulsepulsevelocity)
-- [pivot_right()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_right)
 - [pivot_right(sec)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_rightsec)
 - [pivot_right(sec,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_rightsec-velocity)
 - [pivot_right_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#pivot_right_pulsepulse)
@@ -261,7 +260,7 @@
 </details>
 
 <details>
-    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#회전-감지-센서">회전 감지 센서</a></summary>
+    <summary><a href="https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#각속도-감지-센서">회전 감지 센서</a></summary>
 
 - [gyroscope_x()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#gyroscope_x)
 - [gyroscope_y()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/센서#gyroscope_y)
@@ -370,7 +369,7 @@
 
 - [resolution()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#resolution)
 - [lidar_chart()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#lidar_chart)
-- [lidar_mode(mode)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#lidar_mode_mode)
+- [lidar_mode(mode)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/LiDar#lidar_modemode)
 
 </details>
 
