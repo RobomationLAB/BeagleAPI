@@ -96,7 +96,7 @@
 - [move_backward()](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward)
 - [move_backward(sec)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardsec)
 - [move_backward(sec,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backwardsec-velocity)
-- [move_backward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward_pulse)
+- [move_backward_pulse(pulse)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward_pulsepulse)
 - [move_backward_pulse(pulse,velocity)](https://github.com/RobomationLAB/BeagleAPI_KR/wiki/바퀴-움직임#move_backward_pulsepulsevelocity)
 
 </details>
